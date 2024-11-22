@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Prince11038
+# 👋 Hi, I’m Prince Kumar Singh
 
 ## 👀 Interests
 I’m interested in:
