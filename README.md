@@ -4,6 +4,8 @@
 I’m interested in:
 - **Web Development**
 - **Cybersecurity**
+- **Machine Learning**
+- **IOT Based Devices**
 - Understanding how various technologies work and exploring their real-world applications.
 
 ## 🌱 Currently Learning
