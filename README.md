@@ -1,41 +1,15 @@
-# 👋 Hi, I’m Prince Kumar Singh <img align="right" src="https://komarev.com/ghpvc/?username=Prince11038&label=Profile%20Views&color=0e75b6&style=flat" alt="Prince11038" />
+# नमस्कार, मैं प्रिंस कुमार सिंह हूँ। <img align="right" src="https://komarev.com/ghpvc/?username=Prince11038&label=Profile%20Views&color=0e75b6&style=flat" alt="Prince11038" />
 
-## 👀 Interests
-I’m interested in:
-- **Web Development**
-- **Cybersecurity**
-- **Machine Learning**
-- **IoT-Based Devices**
-- Understanding how various technologies work and exploring their real-world applications.
+## 😴 सपनों में भी ड्रीम प्रोजेक्ट बनाता हूँ — literally।
 
-## 🌱 Currently Learning
-- Machine Learning
-- Python Programming
-- IoT
-- Cybersecurity
-- Networking
-- Artificial Intelligence
 
-## 💞️ Collaboration
-I’m open to collaborating on:
-- AI-powered web application projects
-- Cybersecurity initiatives
-- Innovative technology experiments
+## 📫 संचार का माध्यम
+निसंकोच संपर्क करें:
+- **इलेक्ट्रॉनिक डाक":** [Princekumarsingh9650@gmail.com]
+- **कोड संग्रहण मंच:** [https://github.com/Prince11038]
 
-## 📫 How to Reach Me
-Feel free to connect via:
-- **Email:** [Princekumarsingh9650@gmail.com]
-- **GitHub:** [https://github.com/Prince11038]
 
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-I’m passionate about blending technical knowledge with creative problem-solving to build innovative solutions.
-
----
-
-## 🔧 Languages and Tools:
+## 🔧 मैं जिन भाषाओं और उपकरणों का उपयोग करता हूँ:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -83,7 +57,7 @@ I’m passionate about blending technical knowledge with creative problem-solvin
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 गिटहब आँकड़े:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince11038&show_icons=true&locale=en&layout=compact" alt="Prince11038" />
 </p>
@@ -93,5 +67,3 @@ I’m passionate about blending technical knowledge with creative problem-solvin
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince11038&" alt="Prince11038" /></p>
 
 ---
-
-✨ *This repository is a reflection of my learning journey and passion for technology. Stay tuned for more projects and ideas!* ✨
