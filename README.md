@@ -8,7 +8,7 @@ Engineering student with experience in building functional web applications, pra
 
 ## 🛠 Technical Skills
 
-**Languages:** Python, JavaScript, TypeScript, C++  
+**Languages:** Python, JavaScript, C++  
 **Web Development:** React, Firebase, REST APIs  
 **Machine Learning:** NumPy, Pandas, Scikit-learn  
 **IoT & Embedded:** Arduino, ESP modules, sensor integration  
