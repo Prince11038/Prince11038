@@ -16,22 +16,8 @@ Engineering student with experience in building functional web applications, pra
 
 ---
 
-## 📌 Projects
 
-**MED-AI**  
-AI-assisted medical platform featuring symptom analysis, X-ray evaluation, and skin disease identification.
 
-**IPU Resources**  
-Academic support platform for university students, currently being migrated to a React application.
-
-**Carbon Emission Plugin**  
-Real-time carbon footprint calculator built during a hackathon.
-
-**Smart Watering System**  
-IIoT-based automated irrigation solution connected with Firebase.
-
-**Chrome Extension + Firebase Sync**  
-Extension for syncing local browser data across devices using Firebase.
 
 ---
 
