@@ -18,9 +18,6 @@ Engineering student with experience in building functional web applications, pra
 
 
 
-
----
-
 ## 💼 Experience
 
 **Web Developer — Prodigal AI**  
