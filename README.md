@@ -12,7 +12,7 @@ Engineering student with experience in building functional web applications, pra
 **Web Development:** React, Firebase, REST APIs  
 **Machine Learning:** NumPy, Pandas, Scikit-learn  
 **IoT & Embedded:** Arduino, ESP modules, sensor integration  
-**Tools & Concepts:** Git/GitHub, Networking fundamentals, Cybersecurity basics
+**Tools & Concepts:** Git/GitHub
 
 ---
 
